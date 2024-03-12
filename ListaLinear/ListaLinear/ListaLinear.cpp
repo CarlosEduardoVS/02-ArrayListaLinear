@@ -123,7 +123,7 @@ void buscarElemento()
 	}
 
 	if (j == false) {
-		cout << "Nao existe esse elemento \n";
+		cout << "Nao existe esse elemento! \n";
 	}
 
 }
